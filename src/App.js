@@ -1,5 +1,7 @@
 import React from "react";
 import Cats from "./components/Cats";
+import Footer from "./components/Footer";
+import Header from "./components/Header";
 // import profileImage from './components/imgs';
 
 import "./index.css";
@@ -7,11 +9,9 @@ import "./index.css";
 
 export default function App() {
   return (
-    <div className="lead--txt">
-      <h1>React Props Example </h1>
-      <p>
-        This is a simple react props example, you can see the code
-      </p>
+    <div>
+      <Header />
+      
       <div className="contacts">
       {/* <h1>Hello Dunia</h1> */}
       <Cats
@@ -40,13 +40,11 @@ export default function App() {
                 phone="(0800) CAT KING"
                 email="pumpkin@scrimba.com"
       />
+    
     </div>
-    <footer>
-      <p>
-        Copyright &copy; {new Date().getFullYear()} Bala Hantsi 
-      </p>
-    </footer>
+    <Footer />
     </div>
+     
     
     
     )
