@@ -1,5 +1,7 @@
 
 # React Pops Example
+[![Netlify Status](https://api.netlify.com/api/v1/badges/03b980a0-efca-4cb1-ac02-2ee3ac2bc088/deploy-status)](https://app.netlify.com/sites/festive-feynman-e9487e/deploys) 
+[![Demo](https://img.shields.io/badge/demo-live-blue.svg)](https://react-props.netlify.app/)
 
 This is simple react project design to understand props more 
 ## Acknowledgements
@@ -15,9 +17,6 @@ This particular project is part of [Bob Ziroll's](https://scrimba.com/teachers/b
 - How to pass a prop into a component
 - Recieving props in a components
 
-## Demo
-
-Insert gif or link to demo
 
 
 ## Run Locally

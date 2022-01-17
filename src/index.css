@@ -24,6 +24,11 @@ body {
   /* z-index: 1; */
 }
 
+a {
+  text-decoration: none;
+  color: aqua;
+}
+
 .contacts {
   display: flex;
   justify-content: center;
