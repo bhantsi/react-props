@@ -8,7 +8,7 @@ export default function Footer(){
       <p>
         Copyright &copy; {new Date().getFullYear()} 
         <a href="https://github.com/bhantsi">
-Bala Hantsi 
+        <span> Bala Hantsi</span> 
         </a>
         
       </p>
