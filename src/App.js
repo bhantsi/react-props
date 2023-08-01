@@ -2,7 +2,7 @@ import React from "react";
 import Cats from "./components/Cats";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
-// import profileImage from './components/imgs';
+
 
 import "./index.css";
 
@@ -50,4 +50,3 @@ export default function App() {
     )
   
 }
-// export default App;
